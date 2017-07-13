@@ -1,3 +1,3 @@
 ## Git Demo
 
-> Demo text
+> Sample text
